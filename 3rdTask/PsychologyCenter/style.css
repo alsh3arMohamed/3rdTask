@@ -303,13 +303,13 @@ article {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    width: 75%;
     gap: 3rem;
-    padding: 2vh;
+    border-bottom: 1px solid var(--dark-color);
 }
 
 .form-container img {
-    width: 40%;
+    width: 40vw;
     height: auto;
     object-fit: cover;
 }
